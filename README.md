@@ -19,7 +19,7 @@ ONIONHOST is a Windows Forms app to host Tor hidden services easily on your mach
 4. Switch to **Templates** tab to select a service template.
 5. Click **Deploy Template** to get instructions.
 
-> **Note:** The templates are stubs. Please use your own Python Flask templates (like `chat.py` or `fileshare.py`) and run them manually on `127.0.0.1:8080` to test with the hidden service.
+> **Note:** The template is easy to use but not fully made — it’s like halfsies done. Just run `app.py` and make sure you have Flask installed :)
 
 ## Requirements
 
