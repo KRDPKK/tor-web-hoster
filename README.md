@@ -30,3 +30,4 @@ ONIONHOST is a Windows Forms app to host Tor hidden services easily on your mach
 ---
 
 Happy onion hosting!
+FUCK YOU THIS ISNT GONNA BE OPEN SOURCE
